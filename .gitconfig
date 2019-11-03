@@ -1,0 +1,5 @@
+[diff "sopsdiffer"]
+	textconv = sops -d
+[user]
+	name = rothmaan
+	email = rothmaan@gmail.com
